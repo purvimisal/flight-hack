@@ -23,7 +23,7 @@ Fly buddy is a AI powered chat buddy with traditional features of a notification
 #### Domain used via domain.com: flybuddy.tech
 
 #### Steps to connect and test flybuddy: 
-1.  Send twilio number : join village-funny
+1.  Send twilio number (+14155238886): join village-funny
 2.  Go to https://whatsapp-bot-303117.wl.r.appspot.com/ and send notifications, ideally trip_confirmation first
 
 ###  Notifying customer on important alerts
@@ -180,5 +180,5 @@ Integrating flybuddy with more messaging applications like Facebook messenger, T
 
 
 <p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/Screen%20Shot%202021-01-31%20at%2010.08.48%20AM.png"> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/Screen%20Shot%202021-01-31%20at%2010.08.48%20AM.png" width=500> 
 </p>
