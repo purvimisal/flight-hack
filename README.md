@@ -14,7 +14,7 @@ Using well known messaging systems allow us to utilize the features already inte
 Some may say chatbots are a thing of the past, yet latest research with GPT3 and knowledge graph based QnA is a highly active field of research, and attracts a lot of attention when used in the right manner. So we followed the quote, "Either ride the wave or be washed by it", and here is flybuddy.
 
 ## What it does
-Flight buddy is a AI powered chat buddy with traditional features of a notification system. In summary it does the following tasks:
+Fly buddy is a AI powered chat buddy with traditional features of a notification system. In summary it does the following tasks:
 1. Notifies customer on important alerts (eg. reminder for cab, airport regulations, pre and post flight messages)
 2. AI chat response system ready to answer questions related to flight, COVID QnA and normal conversation.
 3. Information retrieval for latest news on the destiantion.
