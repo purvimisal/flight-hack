@@ -88,7 +88,7 @@ Fly buddy is a AI powered chat buddy with traditional features of a notification
   <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-29%20at%2021.33.50.jpeg" width=400> 
 </p></td>
     <td><p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-29%20at%2021.35.54.jpeg" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-31%20at%2010.59.24.jpeg" width=400> 
 </p></td>
   </tr>
 </table>
