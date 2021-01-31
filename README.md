@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/flybud.jpeg"> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/flybud.jpeg"> 
 </p>
 
 ## Inspiration
@@ -30,13 +30,13 @@ Flight buddy is a AI powered chat buddy with traditional features of a notificat
 <table align="center">
   <tr>
     <td><p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/WhatsApp%20Image%202021-01-29%20at%2021.34.18.jpeg" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-29%20at%2021.34.18.jpeg" width=400> 
 </p></td>
     <td><p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/WhatsApp%20Image%202021-01-29%20at%2021.39.28.jpeg" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-29%20at%2021.39.28.jpeg" width=400> 
 </p></td>
     <td><p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/WhatsApp%20Image%202021-01-29%20at%2015.50.05.jpeg" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-29%20at%2015.50.05.jpeg" width=400> 
 </p></td>
   </tr>
 </table>
@@ -49,10 +49,10 @@ Flight buddy is a AI powered chat buddy with traditional features of a notificat
 <table align="center">
   <tr>
     <td><p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/WhatsApp%20Image%202021-01-30%20at%2015.53.01.jpeg" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-30%20at%2015.53.01.jpeg" width=400> 
 </p></td>
     <td><p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/WhatsApp%20Image%202021-01-30%20at%2015.43.39.jpeg" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-30%20at%2015.43.39.jpeg" width=400> 
 </p></td>
 </table>
 
@@ -64,13 +64,13 @@ Flight buddy is a AI powered chat buddy with traditional features of a notificat
 <table align="center">
   <tr>
     <td><p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/WhatsApp%20Image%202021-01-31%20at%2001.20.42%20(1).jpeg" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-31%20at%2001.20.42%20(1).jpeg" width=400> 
 </p></td>
     <td><p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/WhatsApp%20Image%202021-01-31%20at%2001.33.33%20(1).jpeg" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-31%20at%2001.33.33%20(1).jpeg" width=400> 
 </p></td>
     <td><p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/WhatsApp%20Image%202021-01-31%20at%2001.38.37%20(1).jpeg" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-31%20at%2001.38.37%20(1).jpeg" width=400> 
 </p></td>
   </tr>
 </table>
@@ -84,10 +84,10 @@ Flight buddy is a AI powered chat buddy with traditional features of a notificat
 <table align="center">
   <tr>
     <td><p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/WhatsApp%20Image%202021-01-29%20at%2021.33.50.jpeg" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-29%20at%2021.33.50.jpeg" width=400> 
 </p></td>
     <td><p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/WhatsApp%20Image%202021-01-29%20at%2021.35.54.jpeg" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-29%20at%2021.35.54.jpeg" width=400> 
 </p></td>
   </tr>
 </table>
@@ -98,7 +98,7 @@ Flight buddy is a AI powered chat buddy with traditional features of a notificat
 ## How we built it
 
 <p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/Screen%20Shot%202021-01-31%20at%208.56.22%20AM.png"> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/Screen%20Shot%202021-01-31%20at%208.56.22%20AM.png"> 
 </p>
 
 
@@ -117,7 +117,7 @@ Mahan had recently travelled with american airlines and had materials that could
 ###  Notifying customer on important alerts
 
 <p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/notif2.gif" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/notif2.gif" width=400> 
 </p>
 
 
@@ -128,7 +128,7 @@ Mahan had recently travelled with american airlines and had materials that could
 ### AI chat response system
 
 <p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/chatter.gif" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/chatter.gif" width=400> 
 </p>
 
 -  AI chat messages were trained on Dialog flow that was connected using to the GCP project(thank you for the credits from GCP team)
@@ -138,7 +138,7 @@ Mahan had recently travelled with american airlines and had materials that could
 ### Information retrieval for news
 
 <p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/news.gif" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/news.gif" width=400> 
 </p>
 
 -  We used the NewsAPI and statsAPI and the webhook method of dialog flow to determine the country or county (Supported only for US right now) asked for in the query and retieve the relevant news for a county or state and stats of COVID cases.
@@ -147,7 +147,7 @@ Mahan had recently travelled with american airlines and had materials that could
 ### Language detection and translation
 
 <p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/translate.gif" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/translate.gif" width=400> 
 </p>
 
 -  We used Google traslate API to convert the message into the users base languge. For detecting the base language of the user we checked the github repo of translate API and took the code for detecting the language of the message.
@@ -157,7 +157,7 @@ Mahan had recently travelled with american airlines and had materials that could
 ## Challenges we ran into
 
 <p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/time.gif" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/time.gif" width=400> 
 </p>
 Being a team of two, it was challenging to manage the time given the details and connections to be handled. From scraping data to developing the server, deploying it in cloud engine, integrating Dialogflow and translate api along with news api riding with Twilio whatapp sandbox was quite challenging.
 
@@ -179,5 +179,5 @@ Integrating flybuddy with more messaging applications like Facebook messenger, T
 
 
 <p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/master/static/Screen%20Shot%202021-01-31%20at%2010.08.48%20AM.png"> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/Screen%20Shot%202021-01-31%20at%2010.08.48%20AM.png"> 
 </p>
