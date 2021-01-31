@@ -1,0 +1,47 @@
+{
+"Mask_reminder_checkin":
+						{"Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_time_2checkin.png",
+						"Text" : ["A face covering is required while flying on American, except for children under 2 years old. If you decline to wear one, you may be denied boarding and future travel on American.", "Read more about travel requirements by responding sending - Send me more details"],
+						"Detailed_Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_travel_requirements.png",
+						"Link": "https://www.aa.com/i18n/travel-info/coronavirus-updates.jsp?from=bannerContainerA#travelrequirements"},
+"Trip_confirmation": 
+					{"Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_trip_confirmation.png",
+					 "Text" : ["Hi Traveller! This is your trip confirmation for Record Locator: XWSPXX.", "We charged $106.20 to card ending in 0778 for your ticket purchase.", "Please send 'opt in' to enable virtual travel companion."],
+					 "Detailed_Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_travel_restrictions_requirements.png",
+					 "Link": "https://www.aa.com/i18n/travel-info/coronavirus-updates.jsp#travelrequirements"},
+"Premium_seats_ads":
+					{"Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_premium_sets.png",
+					 "Text" : ["Hi traveller", "Main Cabin Extra seats are available on your trip to San Jose on January 31. Select yours today for best availability.", "Purchase your seat and enjoy these little extras:\n1. More legroom \n2. Preferred boarding \n3. Dedicated overhead bin space", "Read more about travel requirements by responding sending - Send me more details", "Access your trip details below and select “Choose/Change Seats” to purchase a Main Cabin Extra seat."],
+					 "Detailed_Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/",
+					 "Link": "https://www.aa.com/reservation/findReservationAccess.do?recordLocator=XWSPXX&c=EML|REV|20201228|ANC|MKT|TRGEM||NONAADVSeat_BK2BK3"}, 
+"Enhanced_cleaning":
+					{"Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_enhanced_cleaning.png",
+					 "Text" : ["Now more than ever, we're dedicated to giving you peace of mind when you travel with us. We continue to build on our commitment to the safety and well-being of our customers and team members, and are working around the clock to care for you on your travel journey. We want you to travel with confidence and invite you to check out additional details and information on our Clean Commitment on aa.com"],
+					 "Detailed_Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_motto.png",
+					 "Link": "https://www.youtube.com/embed/Ey8ibYaDrTM?rel=0&modestbranding=1"},
+"Before_you_go":
+					{"Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_Before_you_go.png",
+					 "Text" : ["Hi Traveller, \n Before we start the journey, lets make sure all the necessary things are ticked off. Please find the details in the image and links for a smooth onboarding process.", "To know more about the guidelines, please follow the following links: https://apply.joinsherpa.com/travel-restrictions?affiliateid=americanairlines"],
+					 "Detailed_Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_before_you_go_detailed.png",
+					 "Link": "https://www.aa.com/i18n/travel-info/kiosk.jsp#updates?c=EML|MKT|20210108|MKT|MKT|TRGEML||3dayTRG"},
+"At_the_airport":
+					{"Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_at_the_airport.png",
+					 "Text" : ["Hi Traveller, We hope you are all set and ready for your nice and safe travel to San jose city.", "Have a look at the following features provided by American airlines.", "Thank you for choosing to fly with us.", "Read more about baggage requirements by responding sending - Send me more details"],
+					 "Detailed_Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_Baggage_details.png",
+					 "Link": "https://www.aa.com/i18n/travel-info/baggage/baggage.jsp?anchorLocation=DirectURL&title=bags?c=EML|MKT|20210108|MKT|MKT|TRGEML||3dayTRG"},
+"On_the_plane":
+					{"Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_on_the_plane.png",
+					 "Text" : ["Hi Traveller, we are all set to take off. For the safety of all passengers, we at American airlines have dedicated measures against the pandemic.", "Hope you have a wonderful flight ahead!"],
+					 "Detailed_Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/https://media.tenor.com/images/3e195e9edbbb83da55808214dc042730/tenor.gif",
+					 "Link": ""},
+"Post_flight_experience":
+					{"Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_yay_cartoon.png",
+					 "Text" : ["Hi Traveller! Hope you had an awesome flight! We look forward to seeing you soon. Thank you for choosing to fly with us.", "Before you go, How would you rate your experience with us at a scale of 0-10."],
+					 "Detailed_Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/",
+					 "Link": ""}, 
+"Welcome_to_aa":
+				{"Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_welcome_to_aa.png",
+				 "Text" : ["Hi!", "I am flybuddy, your personal flight assistant, here to provide you with the best travel experience from the moment you book the flight till you land at your destination.", "I can help you with any questions about check in, flight status, or the current pandemic- Covid19 including news and statistics in your preferred language. "],
+				 "Detailed_Image": "https://github.com/mahandas/kya_hai_ye/raw/main/static/Image_travel_updates.png",
+				 "Link": "https://www.aa.com/i18n/travel-info/coronavirus-updates.jsp#travelrequirements?c=EML|MKT|20210108|MKT|MKT|TRGEML||3dayTRG"}
+}

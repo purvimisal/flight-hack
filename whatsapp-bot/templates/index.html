@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+    <title>Send Notifications</title>
+  </head>
+  <body>
+    <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary ">
+            <div class="container">
+                <a class="navbar-brand" href="#">Send Notifications...</a>
+              </div>
+          </nav>
+    <h1></h1>
+    <form id="myForm" action='#'>
+    <div class="mb-3">
+    <label for="exampleDataList" class="form-label">Notification Type </label>
+        <input class="form-control" id="notif-type" list="datalistOptions" id="exampleDataList" placeholder="Type to search...">
+        <datalist id="datalistOptions">
+        <option value="Mask_reminder_checkin">Mask reminder checkin</option>
+        <option value="Trip_confirmation">Trip confirmation</option>
+        <option value="Premium_seats_ads">Premium seats ads</option>
+        <option value="Enhanced_cleaning">Enhanced cleaning</option>
+        <option value="Before_you_go">Before you go</option>
+        <option value="At_the_airport">At the airport</option>
+        <option value="On_the_plane">On the plane</option>
+        <option value="Post_flight_experience">Post flight experience</option>
+        <option value="Welcome_to_aa">Welcome to AA</option>
+        </datalist>
+    </div>
+    <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">WhatsApp Phone Number</label>
+        <input type="text" id="phone" class="form-control bfh-phone" data-format="+1 (ddd) ddd-dddd" id="exampleFormControlInput1" placeholder="+X XXX XXX XXXX">
+      </div>
+
+      <div class="btn-group" role="group" aria-label="Basic outlined example">
+        <button type="submit" class="btn btn-outline-primary">Send Notification!</button>
+      </div>
+    </div>
+</form>
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    <script>
+        document.getElementById("myForm").onsubmit = function(e) {myFunction(e)};
+        
+        function myFunction(e) {
+            e.preventDefault();
+            var inputs = document.getElementById("myForm").elements;
+            var event = inputs[0].value;
+            var phone = inputs[1].value.replace('+','');
+            const XHR = new XMLHttpRequest();
+            // console.log('http://b4c9406086a3.ngrok.io/send/'+ phone+ '/'+event)
+            XHR.open( 'GET', 'https://whatsapp-bot-303117.wl.r.appspot.com/send/'+ phone+ '/'+event, false);
+            XHR.send( null );
+          alert("Notification sent!!");
+          window.location.reload(true);
+        }
+        </script>
+    
+  </body>
+</html>
