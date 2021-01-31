@@ -12,7 +12,7 @@ Both of us being international students, there will be a time when our parents w
 Using well known messaging systems allow us to utilize the features already integrated into these systems, like speech to text, attachments and location, saving us from the trouble if scaling the platorm. The problem to scale was successly conquered by developing this as a complete cloud based solution.
 
 Some may say chatbots are a thing of the past, yet latest research with GPT3 and knowledge graph based QnA is a highly active field of research, and attracts a lot of attention when used in the right manner. So we followed the quote, "Either ride the wave or be washed by it", and here is flybuddy.
-
+## [Demo](https://www.youtube.com/watch?v=_Zlj-3Q-b6c)
 ## What it does
 Fly buddy is a AI powered chat buddy with traditional features of a notification system. In summary it does the following tasks:
 1. Notifies customer on important alerts (eg. reminder for cab, airport regulations, pre and post flight messages)
