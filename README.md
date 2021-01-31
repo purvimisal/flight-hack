@@ -30,10 +30,10 @@ Fly buddy is a AI powered chat buddy with traditional features of a notification
 <table align="center">
   <tr>
     <td><p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-29%20at%2021.34.18.jpeg" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-31%20at%2010.40.17.jpeg" width=400> 
 </p></td>
-    <td><p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-29%20at%2021.39.28.jpeg" width=400> 
+<td><p align="center">
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-29%20at%2021.34.18.jpeg" width=400> 
 </p></td>
     <td><p align="center">
   <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-29%20at%2015.50.05.jpeg" width=400> 
@@ -49,7 +49,7 @@ Fly buddy is a AI powered chat buddy with traditional features of a notification
 <table align="center">
   <tr>
     <td><p align="center">
-  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-30%20at%2015.53.01.jpeg" width=400> 
+  <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-31%20at%2010.44.24.jpeg" width=400> 
 </p></td>
     <td><p align="center">
   <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-30%20at%2015.43.39.jpeg" width=400> 
@@ -63,10 +63,11 @@ Fly buddy is a AI powered chat buddy with traditional features of a notification
 ### Information retrieval for news
 <table align="center">
   <tr>
-    <td><p align="center">
+    
+<td><p align="center">
   <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-31%20at%2001.20.42%20(1).jpeg" width=400> 
 </p></td>
-    <td><p align="center">
+<td><p align="center">
   <img src="https://github.com/purvimisal/flight-hack/blob/main/static/WhatsApp%20Image%202021-01-31%20at%2001.33.33%20(1).jpeg" width=400> 
 </p></td>
     <td><p align="center">
